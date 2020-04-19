@@ -3,33 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <title>Ryan Friedman</title>
-<style>
-body{
-	background-color: #1f1f1f;
-}
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
- 	position: relative;
-	top: 100px;
-}
-ul {
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-</style>
-
+<link rel="stylesheet" type="text/css" href="indexstyle.css">
 </head>
 
 <body>
 
-
 <header>
-	<img src="Website Logo.png" alt="Entrance logo" style=>
+	<img src="Website Logo.png" alt="Entrance logo" >
 	<nav>
 		<ul>
 			<li><a href="page1.html" class="button button-accent">About</a></li>
@@ -38,7 +18,28 @@ ul {
 			<li><a href="" class="button button-accent">LinkedIn</a></li>
 		</ul>
 	</nav>
-<header>			
+<header>
+
+<!-- Top navigation -->
+<div class="topnav">
+
+  <!-- Centered link -->
+  <div class="topnav-centered">
+    <a href="index.html" class="active">Home</a>
+  </div>
+
+  <!-- Left-aligned links (default) -->
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+
+  <!-- Right-aligned links -->
+  <div class="topnav-right">
+    <a href="#search">Search</a>
+    <a href="#about">About</a>
+  </div>
+
+</div>		
+
 
 </body>
 </html>
