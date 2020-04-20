@@ -15,6 +15,7 @@ img {
 
 /* Add a black background color to the top navigation */
 .topnav {
+  text-align: center;
   position: center;
   background-color: #1f1f1f;
   overflow: hidden;
@@ -43,19 +44,3 @@ img {
   color: white;
 }
 
-/* Right-aligned section inside the top navigation */
-.topnav-right1 {
-  border: 1px solid white;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-}
-
-.topnav-right2 {
-  border: 1px solid white;
-  padding-top: 50px;
-  padding-right: 46px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-}
