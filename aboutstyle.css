@@ -60,84 +60,12 @@ img {
 
 .subtitle h1 {
   position: absolute;
-  top: 10%;
-  left: 30%;
+  top: 20%;
+  left: 35%;
   transform: translate(-50%, -50%);
   color: #f2f2f2;
   font-size: 42px;
-  background-color: #1f1f1f;
-  overflow: hidden;
-  outline: 4px grey;
-}
-
-.major h1 {
-  position: absolute;
-  top: 10%;
-  left: 30%;
-  transform: translate(-50%, -50%);
-  color: #f2f2f2;
-  font-size: 42px;
-  background-color: #1f1f1f;
-  overflow: hidden;
-  outline: 4px grey;
-}
-
-.major-talk p {
-  position: absolute;
-  top: 10%;
-  left: 30%;
-  transform: translate(-50%, -50%);
-  color: #f2f2f2;
-  font-size: 42px;
-  background-color: #1f1f1f;
-  overflow: hidden;
-  outline: 4px grey;
-}
-
-.minor h1 {
-  position: absolute;
-  top: 10%;
-  left: 30%;
-  transform: translate(-50%, -50%);
-  color: #f2f2f2;
-  font-size: 42px;
-  background-color: #1f1f1f;
-  overflow: hidden;
-  outline: 4px grey;
-}
-
-.minor-talk p {
-  position: absolute;
-  top: 10%;
-  left: 30%;
-  transform: translate(-50%, -50%);
-  color: #f2f2f2;
-  font-size: 42px;
-  background-color: #1f1f1f;
-  overflow: hidden;
-  outline: 4px grey;
-}
-
-.lacrosse h1 {
-  position: absolute;
-  top: 10%;
-  left: 30%;
-  transform: translate(-50%, -50%);
-  color: #f2f2f2;
-  font-size: 42px;
-  background-color: #1f1f1f;
-  overflow: hidden;
-  outline: 4px grey;
-}
-
-.lacrosse-talk p {
-  position: absolute;
-  top: 10%;
-  left: 30%;
-  transform: translate(-50%, -50%);
-  color: #f2f2f2;
-  font-size: 42px;
-  background-color: #1f1f1f;
+  background-color: #101010;
   overflow: hidden;
   outline: 4px grey;
 }
