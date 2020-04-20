@@ -83,7 +83,7 @@ img {
 
 .major-talk p {
   position: absolute;
-  top: 35%;
+  top: 32%;
   left: 32%
   transform: translate(-50%, -50%);
   color: #f2f2f2;
@@ -92,6 +92,6 @@ img {
   overflow: hidden;
   max-width: 400px;
   padding: 32px 32px;
-  margin-left: 120px;
+  margin-left: 350px;
 }
 
