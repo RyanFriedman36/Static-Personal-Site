@@ -46,3 +46,12 @@ img {
   color: white;
 }
 
+.title h1 {
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+  background-color: #1f1f1f;
+  overflow: hidden;
+}
