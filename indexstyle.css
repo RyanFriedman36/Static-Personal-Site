@@ -28,6 +28,7 @@ img {
   padding: 16px 16px;
   text-decoration: none;
   font-size: 17px;
+  padding-bottom: 50px;
 }
 
 /* Change the color of links on hover */
@@ -43,6 +44,18 @@ img {
 }
 
 /* Right-aligned section inside the top navigation */
-.topnav-right {
-  float: right;
+.topnav-right1 {
+  border: 1px solid white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.topnav-right2 {
+  border: 1px solid white;
+  padding-top: 50px;
+  padding-right: 46px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
