@@ -79,11 +79,15 @@ img {
   font-size: 36px;
   background-color: #4f4f4f;
   overflow: hidden;
+
+  border-style: solid;
+  border-width: thick;
+  border-color: #2f2f2f;
 }
 
 .major-talk p {
   position: absolute;
-  top: 34%;
+  top: 35%;
   left: 32%
   transform: translate(-50%, -50%);
   color: #f2f2f2;
@@ -92,7 +96,7 @@ img {
   overflow: hidden;
   max-width: 400px;
   padding: 32px 32px;
-  margin-left: 375px;
+  margin-left: 350px;
   border-style: solid;
   border-width: thick;
   border-color: #2f2f2f;
