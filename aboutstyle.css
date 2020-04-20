@@ -87,8 +87,8 @@ img {
   left: 32%
   transform: translate(-50%, -50%);
   color: #f2f2f2;
-  font-size: 42px;
-  background-color: #1f1f1f;
+  font-size: 18px;
+  background-color: #4f4f4f;
   overflow: hidden;
   outline: 4px grey;
 }
