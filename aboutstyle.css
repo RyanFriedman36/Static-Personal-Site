@@ -136,3 +136,15 @@ img {
   border-color: #2f2f2f;
 }
 
+
+.lacrosse h1 {
+  position: absolute;
+  top: 100%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  color: #f2f2f2;
+  font-size: 42px;
+  background-color: #1f1f1f;
+  overflow: hidden;
+  outline: 4px grey;
+}
