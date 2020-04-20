@@ -90,6 +90,6 @@ img {
   font-size: 18px;
   background-color: #4f4f4f;
   overflow: hidden;
-  outline: 4px grey;
+  max-width: 400px;
 }
 
