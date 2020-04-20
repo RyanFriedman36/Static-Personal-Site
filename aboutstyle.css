@@ -57,13 +57,3 @@ img {
   overflow: hidden;
   outline: 4px grey;
 }
-
-.container {
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-
-  background-color: #191919;
-  overflow: hidden;
-}
