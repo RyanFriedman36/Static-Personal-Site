@@ -22,6 +22,7 @@ img {
 
 /* Style the links inside the navigation bar */
 .topnav a {
+  float: left;
   color: #f2f2f2;
   text-align: center;
   padding: 16px 16px;
@@ -39,4 +40,9 @@ img {
 .topnav a.active {
   background-color: #1f1f1f;
   color: white;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
 }
