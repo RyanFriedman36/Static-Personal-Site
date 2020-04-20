@@ -15,8 +15,7 @@ img {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  position: absolute;
-  margin: 150px;
+  position: center;
   background-color: #1f1f1f;
   overflow: hidden;
 
