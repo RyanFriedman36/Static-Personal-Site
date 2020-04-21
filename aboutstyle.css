@@ -104,7 +104,8 @@ img {
 
 .scct-pic img {
   float:right
-  padding-bottom: 50px;
+  padding-bottom: 200px;
+  margin-right: 20%
 }
 
 .chapel-pic img {
