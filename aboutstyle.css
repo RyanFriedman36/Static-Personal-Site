@@ -102,6 +102,17 @@ img {
   border-color: #2f2f2f;
 }
 
+.scct-pic img {
+  position: absolute;
+  top: 35%;
+  left: 40%
+  margin-left: 550px;
+
+}
+
+.chapel-pic img {
+
+}
 
 
 .minor h1 {
