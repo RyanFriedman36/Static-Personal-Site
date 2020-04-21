@@ -103,7 +103,8 @@ img {
 }
 
 .scct-pic img {
-
+  position: absolute;
+  
 }
 
 .chapel-pic img {
