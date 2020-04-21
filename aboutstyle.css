@@ -110,7 +110,9 @@ img {
 }
 
 .chapel-pic img {
-
+  position: absolute;
+  top: 35%;
+  left: 55%
 }
 
 
@@ -182,10 +184,12 @@ img {
 
 .class-pic img {
   position: absolute;
-  top: 105%;
-  left: 80%
-  transform: translate(-50%, -50%);
-  overflow: hidden;
-  max-width: 400px;
-  margin-left: 275px;
+  top: 35%;
+  left: 55%
+}
+
+.lacrosse-defense img {
+  position: absolute;
+  top: 35%;
+  left: 55%
 }
