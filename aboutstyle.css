@@ -104,7 +104,9 @@ img {
 
 .scct-pic img {
   position: absolute;
-  
+  top: 35%;
+  left: 75%
+
 }
 
 .chapel-pic img {
