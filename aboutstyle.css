@@ -178,3 +178,13 @@ img {
   border-width: thick;
   border-color: #2f2f2f;
 }
+
+.class-pic img {
+  position: absolute;
+  top: 105%;
+  left: 80%
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+  max-width: 400px;
+  margin-left: 275px;
+}
