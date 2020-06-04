@@ -1,4 +1,7 @@
 # basic-html
-All necessary files to build my basic HTML5/CSS static webpage
 
-These are all of the html5 and style pages I wrote to teach myself the basics, its pretty gross.
+All necessary files to build the very basic static webpage I use in my resume to link to my GitHub and linkedin account pages.
+
+__Inspiration:__
+
+I wanted to learn the basics of HTML/CSS and have a platform to extend my 'profile' from simply my resume.
