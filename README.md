@@ -7,4 +7,4 @@ All necessary files to build the basic static webpage I use in my resume to link
 I wanted to learn the basics of HTML/CSS and have a platform to extend my 'profile' from simply my resume.
 
 ![record screen](https://github.com/RyanFriedman36/Static-Personal-Site/blob/master/static%20home.png)
-![record screen](https://github.com/RyanFriedman36/Voice-Modifier/blob/master/record%20screen.png)
+![record screen](https://github.com/RyanFriedman36/Static-Personal-Site/blob/master/about%20me.png)
