@@ -1,4 +1,4 @@
-# Static Personal Website
+# Static Personal Website ([link](ryanfriedman.netlify.app))
 
 All necessary files to build the basic static webpage I use in my resume to link to my GitHub and linkedin account pages and give a short reflection on my college experience.
 
@@ -6,5 +6,5 @@ All necessary files to build the basic static webpage I use in my resume to link
 
 I wanted to learn the basics of HTML/CSS and have a platform to extend my 'profile' from simply my resume.
 
-![record screen](https://github.com/RyanFriedman36/Static-Personal-Site/blob/master/static%20home.png)
-![record screen](https://github.com/RyanFriedman36/Static-Personal-Site/blob/master/about%20me.png)
+![home page](/photos/static%20home.png)
+![about me page](/photos/about%20me.png)
